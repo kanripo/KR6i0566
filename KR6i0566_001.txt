@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:22:50.016195
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:24
 #+TITLE: 圓覺經序注
 #+PROPERTY: CBETA_ID X10n0255
 #+PROPERTY: ID KR6i0566
